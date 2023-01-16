@@ -1,5 +1,4 @@
 # SmartNemo
-
-A smart Home device, Called Nemo.
+A smart home ladning page. 
 
 https://William-Palmantonio.github.io/SmartNemo/ 
