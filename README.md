@@ -1,4 +1,4 @@
 # SmartNemo
-A smart home ladning page. 
+A smart home landing page. 
 
 https://William-Palmantonio.github.io/SmartNemo/ 
